@@ -3,7 +3,7 @@ layout: post
 title:  "About Tranquil Theme"
 date:   2017-02-10 12:50:00 +0800
 background: "/images/bg.jpg"
-category: jekyll
+category: Test
 tags: jekyll tranquil-theme feature
 ---
 
