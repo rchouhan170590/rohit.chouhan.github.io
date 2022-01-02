@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-07-31 12:50:00 +0800
-background: "/images/feature.jpeg"
+background: "/images/feature4.jpeg"
 category: Test
 tags: jekyll feature
 ---
