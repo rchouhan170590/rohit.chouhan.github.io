@@ -1,13 +1,13 @@
 # Site settings
-title: Your awesome title
-username: yourname
-email: your-email@domain.com
+title: ROHIT CHOUHAN
+username: rchouhan
+email: rohit170590@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/tranquil-theme"
-url: "http://yourdomain.com"
+baseurl: "/rohit.chouhan.github.io"
+url: "https://rchouhan170590.github.io/rohit.chouhan.github.io/"
 aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 ads: /images/ads.jpg
 
