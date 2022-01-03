@@ -2,11 +2,7 @@
 layout: post
 title:  "IIT Kanpur Convocation"
 date:   2016-07-31 12:50:00 +0800
-<<<<<<< HEAD
-background: "/images/feature.jpg"
-=======
 background: "/images/feature4.jpeg"
->>>>>>> 0876c3ccdf6fbc84c8c54645e72182850ab994ed
 category: Test
 tags: jekyll feature
 ---

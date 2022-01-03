@@ -1,5 +1,5 @@
-- name: facebook
-  url: http://facebook.com/#
+# - name: facebook
+#   url: http://facebook.com/#
 
 - name: linkedin
   url: https://www.linkedin.com/in/rohit-chouhan-7930aa166/
@@ -10,11 +10,11 @@
 - name: github
   url: https://github.com/rchouhan170590
 
-- name: google-plus
-  url: http://plus.google.com/#
+# - name: google-plus
+#   url: http://plus.google.com/#
 
 - name: instagram
   url: http://instagram.com/__rohit.chouhan__
 
-- name: youtube-play
-  url: http://youtube.com/#
+# - name: youtube-play
+#   url: http://youtube.com/#
