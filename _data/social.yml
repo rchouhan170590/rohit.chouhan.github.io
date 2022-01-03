@@ -1,20 +1,20 @@
-# - name: facebook
-#   url: http://facebook.com/#
+- name: facebook
+  url: http://facebook.com/#
 
 - name: linkedin
-  url: https://www.linkedin.com/in/rohit-chouhan-7930aa166/
+  url: http://linkedin.com/#
 
 - name: twitter
-  url: https://twitter.com/ROHITCH44107886
+  url: http://twitter.com/#
 
 - name: github
-  url: https://github.com/rchouhan170590
+  url: http://github.com/#
 
-# - name: google-plus
-#   url: http://plus.google.com/#
+- name: google-plus
+  url: http://plus.google.com/#
 
 - name: instagram
-  url: http://instagram.com/__rohit.chouhan__
+  url: http://instagram.com/#
 
-# - name: youtube-play
-#   url: http://youtube.com/#
+- name: youtube-play
+  url: http://youtube.com/#

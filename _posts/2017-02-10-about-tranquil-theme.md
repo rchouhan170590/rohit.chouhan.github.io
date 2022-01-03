@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Lucknow: City of Lake"
+title:  "About Tranquil Theme"
 date:   2017-02-10 12:50:00 +0800
-background: "/images/feature3.jpeg"
-category: Test
-tags: Lucknow
+background: "/images/bg.jpg"
+category: jekyll
+tags: jekyll tranquil-theme feature
 ---
 
 [Tranquil theme](https://github.com/swang2015/tranquil-theme) ([demo](http://swang2015.github.io/tranquil-theme/)) is a stylish Jekyll template originally designed for [my blog](http://swang2015.github.io/).
