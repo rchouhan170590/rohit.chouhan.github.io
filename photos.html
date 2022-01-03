@@ -1,0 +1,17 @@
+---
+layout: home
+title: Photos
+---
+
+<!-- Thumbnail -->
+<section id="thumbnails">{% for photo in site.photos %}
+	<article>
+		<a class="thumbnail" href="{{ photo.image }}" data-position="left center"><img src="{{ photo.thumbnail }}" alt="" /></a>
+		<h2>{{ photo.title }}</h2>
+		<p>{{ photo.caption }}</p>
+	</article>
+{% endfor %}</section>
+
+<!-- more template need to use  -->
+<!-- https://andrewbanchich.github.io/editorial-jekyll-theme/generic.html# -->
+<!-- https://marat.john-coene.com/ -->
