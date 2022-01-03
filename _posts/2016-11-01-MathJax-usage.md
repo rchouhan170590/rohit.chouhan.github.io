@@ -3,10 +3,13 @@ layout: post
 title:  "IIT Kanpur Convocation"
 date:   2016-11-01 12:00:00 +0800
 background: "/images/feature.jpeg"
-category: Test
-tags: IITK tranquil-theme feature
+category: Events
+tags: IITK
 math: true
 ---
 
-When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
-\[x = {-b \pm \sqrt{b^2-4ac} \over 2a}\].
+Fifty Fourth Convocation (Convocation 2021) of the Institute held on Tuesday, December 28, 2021
+Chief Guest: Shri Narendra Modi (Hon’ble Prime Minister of India).
+The Convocation will be held in a hybrid mode. The students can attend the ceremony
+either in person or virtually on the online platform to be made available for this purpose.
+Students who attend the ceremony virtually will receive their degrees through speed post.
