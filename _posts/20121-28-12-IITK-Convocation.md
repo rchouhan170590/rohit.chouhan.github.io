@@ -4,7 +4,7 @@ title:  "IIT Kanpur Convocation"
 date:   2016-11-01 12:00:00 +0800
 background: "/images/feature.jpeg"
 category: Events
-tags: IITK
+tags: IITK-Convocation 
 math: true
 ---
 
