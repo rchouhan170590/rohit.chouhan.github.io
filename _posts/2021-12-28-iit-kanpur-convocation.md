@@ -1,13 +1,19 @@
 ---
 layout: post
-title:  "About Tranquil Theme"
-date:   2017-02-10 12:50:00 +0800
+title:  "IIT Kanpur Convocation"
+date:   2021-12-28 12:50:00 +0800
 background: "/images/iitk_convo1.jpeg"
 category: jekyll
 tags: IITK Convocation
 ---
 
-[Tranquil theme](https://github.com/swang2015/tranquil-theme) ([demo](http://swang2015.github.io/tranquil-theme/)) is a stylish Jekyll template originally designed for [my blog](http://swang2015.github.io/).
+[IIT Kanpur Convocation](https://www.iitk.ac.in/doaa/convocation/) The Convocation will be held in a hybrid mode. 
+The students can attend the ceremony either in person or virtually on the online platform to be made available 
+for this purpose. Students who attend the ceremony virtually will receive their degrees through speed post.
+
+| Picture with Batchmates | 
+| --- | 
+<img src="/images/iitk_convo2.jpeg">
 
 ## Features
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-07-31 12:50:00 +0800
+title:  "Lucknow : City of Nawabs"
+date:   2021-12-29 12:50:00 +0800
 background: "/images/lucknow1.jpeg"
 category: jekyll
 tags: Lucknow Tour
