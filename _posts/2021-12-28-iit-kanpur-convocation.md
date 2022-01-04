@@ -12,7 +12,7 @@ The students can attend the ceremony either in person or virtually on the online
 for this purpose. Students who attend the ceremony virtually will receive their degrees through speed post.
 
 | Picture with Batchmates |
-<img src="../images/iitk_convo2.jpeg">
+![name of the image](../images/iitk_convo2.jpeg)
 
 ## Features
 
