@@ -11,9 +11,8 @@ tags: IITK Convocation
 The students can attend the ceremony either in person or virtually on the online platform to be made available 
 for this purpose. Students who attend the ceremony virtually will receive their degrees through speed post.
 
-| Picture with Batchmates | 
-| --- | 
-<img src="/images/iitk_convo2.jpeg">
+| Picture with Batchmates |
+<img src="../images/iitk_convo2.jpeg">
 
 ## Features
 
