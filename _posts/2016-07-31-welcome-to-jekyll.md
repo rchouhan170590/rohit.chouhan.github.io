@@ -2,26 +2,13 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2016-07-31 12:50:00 +0800
-background: "/images/feature.jpg"
+background: "/images/lucknow1.jpg"
 category: jekyll
 tags: jekyll feature
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+लखनऊ उत्तर प्रदेश की राजधानी है और यह हमेशा एक बहुसांस्कृतिक शहर रहा है शहर के फारसी-प्यार शिया नवाबों द्वारा संरक्षित सभ्य रूप से शिष्टाचार, सुंदर उद्यान, कविता, संगीत और ठीक भोजन भारतीयों और दक्षिण एशियाई संस्कृति और इतिहास के छात्रों में अच्छी तरह से जाना जाता है। लखनऊ को लोकप्रिय रूप से नवाबों के शहर के रूप में जाना जाता है। इसे पूर्व के गोल्डन सिटी, शिराज-ए-हिंद और भारत के कांस्टेंटिनोपल के नाम से भी जाना जाता है
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+अयोध्या का शहर, लक्ष्मणपुर से चालीस मील दूर, महान धन से भरा होने की सूचना दी गई थी: “इसकी सड़कों पर अच्छी तरह से व्यवस्था की जाती थी, पानी की निरंतर धाराओं से ताज़ा हो गया था, इसकी दीवारें, अलग-अलग सजावटी थीं, शतरंज की चक्रीय सतह के समान थीं- मंडल। यह व्यापारियों, नाटककारों, हाथियों, घोड़ों और रथों से भरा था सुगन्धित धूप का बादल दोपहर को सूर्य को अंधेरा कर रहा था: लेकिन चमकीले हीरे और जवाहरात की चमचमाती चमक ने महिलाओं को सताया। “(रामायण)।
 
-Jekyll also offers powerful support for code snippets:
+अयोध्या के प्राचीन महानगर घागरा के किनारे पर स्थित था, जो कि चुनने में गंगा के रूप में व्यापक रूप से एक नदी और इसके विशाल खंडहर अभी भी देखे जा सकते हैं। अयोध्या को कब और कैसे उजागर किया गया था या क्षय करने की अनुमति का कोई रिकॉर्ड नहीं है: पौराणिक कथा यह है कि राम स्वर्ग में चले गए, उसके साथ सभी जगह की आबादी लेते थे। इतना बड़ा था कि शहर में लक्ष्मणपुर को इसके उपनगर के रूप में वर्णित किया गया!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
