@@ -3,7 +3,7 @@ layout: post
 title:  "IIT Kanpur Convocation"
 date:   2021-12-28 12:50:00 +0800
 background: "/images/iitk_convo1.jpeg"
-category: Events
+category: events
 tags: IITK Convocation
 ---
 
