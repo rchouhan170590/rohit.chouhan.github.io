@@ -13,7 +13,7 @@ for this purpose. Students who attend the ceremony virtually will receive their 
 
 | Picture with Batchmates |
 <!-- ![name of the image](https://raw.githubusercontent.com/rchouhan170590/rohit.chouhan.github.io/gh-pages/images/iitk_convo2.jpeg) -->
-<img src="https://raw.githubusercontent.com/rchouhan170590/rohit.chouhan.github.io/gh-pages/images/iitk_convo2.jpeg" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/rchouhan170590/rohit.chouhan.github.io/gh-pages/images/iitk_convo2.jpeg" alt="drawing" width="50%"/>
 ## Features
 
 - Responsive design
