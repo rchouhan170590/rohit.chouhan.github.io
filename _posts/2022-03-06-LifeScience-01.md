@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life Sceince - 01"
-date:   2021-12-29 12:50:00 +0800
+date:   2022-03-06 12:50:00 +0800
 background: "/images/lucknow1.jpeg"
 category: blogs
 tags: LifeScience Learning
